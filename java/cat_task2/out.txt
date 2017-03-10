@@ -1,0 +1,8 @@
+University: SUST
+HSC Board: DIN
+HSC Roll: 123456
+HSC Passing Year: 2012
+SSC Board: SYL
+SSC Roll: 654321
+SSC Passing Year: 2010
+Unit: B1
